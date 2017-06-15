@@ -1,7 +1,3 @@
-# Bootstrap Template
+# Bootstrap Project 1
 
-This is a template using Bootstrap 3, remember to change github repo with 
-
-git remote set-url origin ________
-
-paste new link in for _________
+This Bootstrap project, creates a nav, jumbotron and generates a random gif
