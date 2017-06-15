@@ -1,0 +1,22 @@
+.btn-primary{
+	background-color: blue;
+}
+
+.btn-primary:hover {
+	background-color: #00AEFF;
+}
+
+.btn-primary:active, .btn-primary:focus{
+	background-color:black;
+}
+
+.btn-primary:visited{
+	background-color: red;
+}
+
+.computer-bg{
+	background-image: url("../images/nyc.jpg");
+	background-position: bottom;
+	background-size: cover;
+
+}
